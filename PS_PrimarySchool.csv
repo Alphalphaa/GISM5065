@@ -1,0 +1,730 @@
+﻿ID,選校編號 Choice Code,"學    校    名    稱
+Name of School",授課時間 Session,學校類別 School Type,資助類別 Finance Type,"宗教
+Religion","**暫定統一派位學額 Provisional Number of Places for
+Central
+Allocation","學    校    地    址        ( 電  話 號  碼  )
+School Address (Telephone Number)",map_latitude,map_longitude
+PS_001,3101,"佐敦道官立小學    (S) (P)
+Jordan Road Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,50,"九龍油麻地南京街１號Ｂ    (2332 4249) 1B Nanking Street, Yau Ma Tei, Kln",22.30618813,114.1688774
+PS_002,3102,嘉諾撒聖瑪利學校    (S) (P) (U3) St Mary’s Canossian School,"全日
+whole-day","女
+girls","資助
+aided","天主教
+Catholicism",47,"九龍尖沙咀柯士甸道１６２號    (2739 0081) 162 Austin Road, Tsim Sha Tsui, Kln",22.30291924,114.175603
+PS_003,3103,德信學校    (S) (P) Tak Sun School,"全日
+whole-day","男
+boys","資助
+aided","天主教
+Catholicism",49,"九龍柯士甸道１０３號    (2367 3446) 103 Austin Road, Kln",22.30388546,114.1723228
+PS_004,3104,東華三院羅裕積小學    (S) (P) TWGHS Lo Yu Chik Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided",,81,"九龍油麻地碧街５１號    (2780 0039) 51 Pitt Street, Yau Ma Tei, Kln",22.3143519,114.171216
+PS_005,3105,中華基督教會灣仔堂基道小學    (S) (P) CCC Wanchai Church Kei To Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",53,"九龍油麻地東莞街４５號    (2780 4455) 45 Tung Kun Street, Yau Ma Tei, Kln",22.31131752,114.1688674
+PS_006,3106,油蔴地街坊會學校    (S) (P) Yaumati Kaifong Association School,"全日
+whole-day","男女
+co-ed","資助
+aided",,24,"九龍油麻地眾坊街８０號    (2388 8327) 80 Public Square Street, Yau Ma Tei, Kln",22.31022493,114.171682
+PS_007,3107,循道學校    (S) (P) Methodist School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",35,"九龍衛理道１２號    (3976 2200) 12 Wylie Road, Kln",22.30853629,114.1767676
+PS_008,3108,油蔴地天主教小學    (S) (P) Yaumati Catholic Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",58,"九龍油麻地東莞街４１號    (2780 7311) 41 Tung Kun Street, Yau Ma Tei, Kln",22.31138971,114.1679551
+PS_009,3109,"油蔴地天主教小學（海泓道）    (S) (P)
+Yaumati Catholic Primary School (Hoi Wang Road)","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",46,"九龍油麻地海泓道１０號    (2625 0766) 10 Hoi Wang Road, Yau Ma Tei, Kln",22.31341231,114.1640921
+PS_010,3110,東莞同鄉會方樹泉學校    (S) (P) TKDS Fong Shu Chuen School,"全日
+whole-day","男女
+co-ed","資助
+aided",,88,"九龍油麻地東莞街４３號    (2780 2296) 43 Tung Kun Street, Yau Ma Tei, Kln",22.31129041,114.1685665
+PS_011,3201,"鮮魚行學校    (S)
+Fresh Fish Traders’ School","全日
+whole-day","男女
+co-ed","資助
+aided",,40,"九龍大角咀詩歌舞街３３號    (2393 8958) 33 Sycamore Street, Tai Kok Tsui, Kln",22.3246554,114.164062
+PS_012,3202,中華基督教會基全小學    (S) CCC Kei Tsun Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",107,"九龍大角咀道１５０號    (2392 8221) 150 Tai Kok Tsui Road, Kln",22.32265045,114.1621598
+PS_013,3203,"大角嘴天主教小學    (S)
+Tai Kok Tsui Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",58,"九龍大角咀道１４８號    (2393 3559) 148 Tai Kok Tsui Road, Kln",22.32209958,114.1621695
+PS_014,3204,"大角嘴天主教小學（海帆道）  (S) (P)
+Tai Kok Tsui Catholic Primary School (Hoi Fan Road)","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",41,"九龍大角咀海帆道２０號    (2191 4270) 20 Hoi Fan Road, Tai Kok Tsui, Kln",22.32222531,114.1558314
+PS_015,3205,"塘尾道官立小學    (S) (P)
+Tong Mei Road Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,76,"九龍塘尾道１７０號    (2393 0800) 170 Tong Mi Road, Kln",22.32284037,114.1657025
+PS_016,3206,路德會沙崙學校    (S) Sharon Lutheran School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",62,"九龍大角咀櫻桃街１８號    (2392 0221) 18 Cherry Street, Tai Kok Tsui, Kln",22.31893911,114.1650622
+PS_017,3207,"聖公會基榮小學    (S)
+SKH Kei Wing Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",50,"九龍荔枝角道２３號    (2380 0349) 23 Lai Chi Kok Road, Kln",22.32237092,114.1679544
+PS_018,3208,中華基督教會協和小學    (S) CCC Heep Woh Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",64,"九龍太子道１９１號Ｂ    (2381 9119) 191B Prince Edward Road, Kln",22.32400563,114.1720989
+PS_019,3401,九龍婦女福利會李炳紀念學校    (S) (P) KWWC Li Ping Memorial School,"全日
+whole-day","男女
+co-ed","資助
+aided",,25,"九龍衛理道３３號  *    (2384 6904) 33 Wylie Road, Kln",22.31289806,114.1755059
+PS_020,3402,"陳瑞祺（喇沙）小學    (S)
+Chan Sui Ki (La Salle) Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",45,"九龍何文田常盛街２２號    (2711 6278) 22 Sheung Shing Street, Ho Man Tin, Kln",22.3187679,114.181145
+PS_021,3403,中華基督教會灣仔堂基道小學（九龍城）(S) (U4) CCC Wanchai Church Kei To Primary School (Kowloon City),"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/
+Christianity",37,"九龍土瓜灣靠背壟道１７０號    (2714 7000) 170 Kau Pui Lung Road, To Kwa Wan, Kln",22.31550765,114.1859686
+PS_022,3404,"聖公會聖匠小學    (S)
+SKH Holy Carpenter Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,52,"九龍貴州街１４號  *   (2333 2313) 14 Kwei Chow Street, Kln",22.31631085,114.1927821
+PS_023,3405,"九龍靈光小學    (S)
+Emmanuel Primary School, Kowloon","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/
+Christianity",39,"九龍馬頭圍盛德街３６—３８號  * (2711 1232)
+36-38 Shing Tak Street, Ma Tau Wai, Kln",22.32410465,114.1879492
+PS_024,3406,基督教香港信義會紅磡信義學校    (S) ELCHK Hung Hom Lutheran Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/
+Christianity",24,"九龍炮仗街３９號  *    (2712 1543) 39 Pau Chung Street, Kln",22.31834313,114.1879973
+PS_025,3407,協恩中學附屬小學    (S) (F) (P) Heep Yunn Primary School,"全日
+whole-day","女
+girls","資助
+aided","基督教
+Protestantism/
+Christianity",34,"九龍農圃道１號    (2711 1263) 1 Farm Road, Kln",22.32172074,114.1853187
+PS_026,3408,"聖公會牧愛小學    (S)
+SKH Good Shepherd Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,25,"九龍土瓜灣馬頭圍道１７１號    (2712 3094) 171 Ma Tau Wai Road, To Kwa Wan, Kln",22.31810835,114.1878808
+PS_027,3409,"天主教領島學校    (S)
+Ling To Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",84,"九龍愛民邨俊民苑  *    (2713 9233) Chun Man Court, Oi Man Estate, Kln",22.31473126,114.1793202
+PS_028,3410,"馬頭涌官立小學    (S) (P)
+Ma Tau Chung Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,58,"九龍土瓜灣福祥街１號    (2711 5548) 1 Fuk Cheung Street, To Kwa Wan, Kln",22.32460141,114.1868136
+PS_029,3411,"農圃道官立小學    (S) (P)
+Farm Road Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,47,"九龍土瓜灣農圃道８號    (2711 0682 ) 8 Farm Road, To Kwa Wan, Kln",22.32079051,114.1866678
+PS_030,3412,"聖羅撒學校    (S) (P)
+St Rose of Lima’s School","全日
+whole-day","女
+girls","資助
+aided","天主教
+Catholicism",47,"九龍基堤道４號    (2338 2807) 4 Embankment Road, Kln",22.32629946,114.1750593
+PS_031,3413,"合一堂學校    (S)
+Hop Yat Church School","全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,49,"九龍公主道７號    (2711 2440) 7 Princess Margaret Road, Kln",22.32079982,114.1794465
+PS_032,3414,"獻主會聖馬善樂小學    (S)
+St. Eugene de Mazenod Oblate Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",61,"九龍土瓜灣天光道２４號    (2715 1011) 24 Tin Kwong Road, To Kwa Wan, Kln",22.31984234,114.1860465
+PS_033,3415,獻主會小學    (S) (P) Oblate Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",50,"九龍土瓜灣順風街１號    (2364 8375) 1 Shun Fung Street, To Kwa Wan, Kln",22.31583232,114.1918212
+PS_034,3416,"保良局何壽南小學    (S) (P)
+PLK Stanley Ho Sau Nan Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",,37,"九龍九龍城沐虹街１１號    (2326 2627) 11 Muk Hung Street, Kowloon City, Kln",22.33137231,114.204432
+PS_035,3417,聖公會聖十架小學    (S) (P) SKH Holy Cross Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",58,"九龍九龍城沐虹街９號    (2320 4931) 9 Muk Hung Street, Kowloon City, Kln",22.33240181,114.2043448
+PS_036,3418,浸信會天虹小學    (S) (P) (#2) Baptist Rainbow Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",62,"九龍九龍城沐安街（暫定）    (2328 7971) Muk On Street, Kowloon City, Kln (Tentative)",22.34468521,114.1897468
+PS_037,3501,"天神嘉諾撒學校    (S) (#3) (U5)
+Holy Angels Canossian School","全日
+whole-day","女
+girls","資助
+aided","天主教
+Catholicism",35,"九龍紅磡鶴園街２１號    (2362 4448)
+21 Hok Yuen Street, Hung Hom, Kln",22.31061305,114.1862789
+PS_038,3502,"馬頭涌官立小學（紅磡灣）    (S) (P)
+Ma Tau Chung Government Primary School (Hung Hom Bay)","全日
+whole-day","男女
+co-ed","官立
+govt",,62,"九龍紅磡灣愛景街３號    (2363 8989) 3 Oi King Street, Hung Hom Bay, Kln",22.30237703,114.1878893
+PS_039,3503,"聖公會奉基小學    (S)
+SKH Fung Kei Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/
+Christianity",50,"九龍紅磡黃埔花園德定街４號    (2764 8909)
+4 Tak Ting Street, Whampoa Garden, Hung Hom,
+Kln",22.3047789,114.191393
+PS_040,3504,聖公會奉基千禧小學    (S) (P) SKH Fung Kei Millennium Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,47,"九龍紅磡黃埔花園德定街２號    (2362 7123)
+2 Tak Ting Street, Whampoa Garden, Hung Hom,
+Kln",22.30442672,114.1912571
+PS_041,3505,"葛量洪校友會黃埔學校    (S) (P)
+GCEPSA Whampoa Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",,97,"九龍紅磡黃埔花園德安街３０號    (2334 3673)
+30 Tak On Street, Whampoa Garden, Hung Hom, Kln",22.3033069,114.1914899
+PS_042,3506,"黃埔宣道小學    (S) (P)
+Alliance Primary School, Whampoa","全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,47,"九龍紅磡黃埔花園德豐街２１號    (2336 7742) 21 Tak Fung Street, Whampoa Garden, Hung Hom, Kln",22.30319858,114.1909367
+PS_043,3507,"聖公會聖提摩太小學    (S)
+SKH St Timothy’s Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,72,"九龍紅磡鶴園街１４及１９號    (2362 5953) 14 & 19 Hok Yuen Street, Hung Hom, Kln",22.31073041,114.1869
+PS_044,4001,"大坑東宣道小學
+Alliance Primary School, Tai Hang Tung","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",73,"九龍大坑東棠蔭街１３及２３號    (2777 8949) 13 & 23 Tong Yam Street, Tai Hang Tung, Kln",22.33112166,114.1701379
+PS_045,4002,"聖公會聖安德烈小學    (P)
+SKH St Andrew’s Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",85,"九龍深水埗海麗街３號    (2959 1551) 3 Hoi Lai Street, Sham Shui Po, Kln",22.33075792,114.1474629
+PS_046,4003,"五邑工商總會學校    (S)
+Five Districts Busi Wel Assn School","全日
+whole-day","男女
+co-ed","資助
+aided",,58,"九龍深水埗永康街７０號    (2307 1017) 70 Wing Hong Street, Sham Shui Po, Kln",22.34101778,114.1545763
+PS_047,4004,"聖公會基福小學    (P)
+SKH Kei Fook Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",85,"九龍深水埗長沙灣道５５５號    (2387 1121) 555 Cheung Sha Wan Road, Sham Shui Po, Kln",22.33649342,114.1542082
+PS_048,4005,"香港四邑商工總會新會商會學校    (S)
+HK Sze Yap C & I Assn San Wui Commercial Society School","全日
+whole-day","男女
+co-ed","資助
+aided",,39,"九龍大坑東棠蔭街２１號    (2777 9515) 21 Tong Yam Street, Tai Hang Tung, Kln",22.33078753,114.1701476
+PS_049,4006,"福榮街官立小學    (S) (P)
+Fuk Wing Street Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,63,"九龍深水埗福榮街２３１號    (2728 7627) 231 Fuk Wing Street, Sham Shui Po, Kln",22.33405581,114.1594406
+PS_050,4007,"長沙灣天主教小學    (S)
+Cheung Sha Wan Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",38,"九龍長沙灣東京街７號    (2776 1423) 7 Tonkin Street, Cheung Sha Wan, Kln",22.33398314,114.1558685
+PS_051,4008,"天主教善導小學    (S)
+Good Counsel Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",78,"九龍深水埗廣利道９號    (2386 5392) 9 Kwong Lee Road, Sham Shui Po, Kln",22.34038627,114.1597116
+PS_052,4009,瑪利諾神父教會學校（小學部）    (S) (P) Maryknoll Fathers’ School (Primary Section),"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",36,"九龍深水埗海麗街１１號    (2778 8235) 11 Hoi Lai Street, Sham Shui Po, Kln",22.3314349,114.1458029
+PS_053,4010,深水埔街坊福利會小學    (S) Shamshuipo K/F Wel Assn Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided",,38,"九龍汝州街８８號３至６樓    (2381 9504) 2-5/F, 88 Yu Chau Street, Kln",22.32743689,114.1649936
+PS_054,4011,"聖公會聖多馬小學    (P)
+SKH St Thomas’ Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",45,"九龍深水埗東沙島街１４５號    (2779 3076) 145 Pratas Street, Sham Shui Po, Kln",22.33440788,114.1583728
+PS_055,4012,"聖方濟愛德小學    (P)
+St Francis of Assisi’s Caritas School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",53,"九龍石硤尾偉智街７號    (2777 2752) 7 Wai Chi Street, Shek Kip Mei, Kln",22.33289154,114.1677693
+PS_056,4013,基督教香港信義會深信學校    (S) (#4) The ELCHK Faith Lutheran School,"全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,25,"九龍石硤尾培德街８號及石硤尾
+南昌街２２１號    (2779 0106, 2779 2744)
+8 Pui Tak Street, Shek Kip Mei & 221 Nam Cheong Street, Shek Kip Mei, Kln",22.33541091,114.165255
+PS_057,4014,"寶血會嘉靈學校    (P)
+Ka Ling School of The Precious Blood","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",73,"九龍深水埗海壇街２８０號    (2386 4542) 280 Hai Tan Street, Sham Shui Po, Kln",22.3301633,114.1566553
+PS_058,4015,"旅港開平商會學校    (S)
+Hoi Ping Chamber of Com Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",,38,"九龍荔枝角道７００號    (2387 5605) 700 Lai Chi Kok Road, Kln",22.33435306,114.1534611
+PS_059,4016,荔枝角天主教小學    (P) Laichikok Catholic Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",70,"九龍深水埗興華街西６號    (2743 3836)
+6 Hing Wah Street West, Sham Shui Po, Kln",22.33330484,114.1491611
+PS_060,4017,"深水埗官立小學    (S) (P)
+Sham Shui Po Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,106,"九龍深水埗深旺道１０１號    (2959 0555) 101 Sham Mong Road, Sham Shui Po, Kln",22.33323233,114.1476468
+PS_061,4018,"聖公會聖紀文小學
+SKH St Clement’s Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",56,"九龍長沙灣幸福街５號    (2361 5663) 5 Fortune Street, Cheung Sha Wan, Kln",22.33483171,114.1536745
+PS_062,4019,聖公會基愛小學    (S) SKH Kei Oi Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",50,"九龍廣利道１５號    (2386 2463) 15 Kwong Lee Road, Kln",22.33947429,114.1607699
+PS_063,4020,"中華基督教會協和小學（長沙灣）    (P)
+CCC Heep Woh Primary School (Cheung Sha Wan)","全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,69,"九龍深水埗東京街１８號    (2111 9099) 18 Tonkin Street, Sham Shui Po, Kln",22.33461554,114.1579651
+PS_064,4021,"李鄭屋官立小學    (S) (P)
+Li Cheng Uk Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,32,"九龍深水埗東京街４３號    (2386 8049) 43 Tonkin Street, Sham Shui Po, Kln",22.33821896,114.1600323
+PS_065,4022,郭怡雅神父紀念學校    (S) (#5) Father Cucchiara Memorial School,"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",96,"九龍深水埗連翔道（暫定）    (2495 1922)
+Lin Cheung Road, Sham Shui Po, Kln (Tentative)",22.34819283,114.1075595
+PS_066,4101,"拔萃小學    (F)
+Diocesan Preparatory School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/
+Christianity",26,"九龍九龍塘志士達道１號及３號  (2336 1448) 1 & 3 Chester Road, Kowloon Tong, Kln",22.32919827,114.1790001
+PS_067,4102,"喇沙小學    (P)
+La Salle Primary School","全日
+whole-day","男
+boys","資助
+aided","天主教
+Catholicism",84,"九龍九龍塘喇沙利道１號Ｄ    (2336 2609)
+1D La Salle Road, Kowloon Tong, Kln",22.32752757,114.1812035
+PS_068,4103,"華德學校    (S) (P)
+Bishop Walsh Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",47,"九龍聯合道１５０號    (2337 2058) 150 Junction Road, Kln",22.33484204,114.1876298
+PS_069,4104,"九龍塘官立小學    (S) (P)
+Kowloon Tong Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,54,"九龍九龍塘添福道６號    (2336 0991) 6 Tim Fuk Road, Kowloon Tong, Kln",22.33588091,114.178476
+PS_070,4105,瑪利諾修院學校（小學部）    (F) Maryknoll Convent School (Primary Section),"全日
+whole-day","女
+girls","資助
+aided","天主教
+Catholicism",71,"九龍九龍塘窩打老道１３０號    (2336 0611) 130 Waterloo Road, Kowloon Tong, Kln",22.32757277,114.179068
+PS_071,4106,耀山學校    (S) Iu Shan School,"全日
+whole-day","男女
+co-ed","資助
+aided",,15,"九龍嘉林邊道２４號    (2336 2115) 24 Grampian Road, Kln",22.33007395,114.1867267
+PS_072,4107,"嘉諾撒聖家學校    (P)
+Holy Family Canossian School","全日
+whole-day","女
+girls","資助
+aided","天主教
+Catholicism",42,"九龍九龍城聯合道１０２號    (2382 1035) 102 Junction Road, Kowloon City, Kln",22.33118468,114.1872412
+PS_073,4108,"嘉諾撒聖家學校（九龍塘）    (P)
+Holy Family Canossian School (Kowloon Tong)","全日
+whole-day","女
+girls","資助
+aided","天主教
+Catholicism",56,"九龍九龍塘添福路８號    (2336 5981) 8 Tim Fuk Road, Kowloon Tong, Kln",22.33647692,114.1786119
+PS_074,4109,"中華基督教會基華小學（九龍塘）
+CCC Kei Wa Primary School (Kowloon Tong)","全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,56,"九龍九龍塘牛津道１號Ｂ    (2267 6676) 1B Oxford Road, Kowloon Tong, Kln",22.32965881,114.1804367
+PS_075,4110,"九龍塘天主教華德學校    (S) (P)
+Kowloon Tong Bishop Walsh Catholic School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",50,"九龍延文禮士道３９號    (2337 3768) 39 Inverness Road, Kln",22.33449896,114.1862416
+PS_076,4301,聖博德學校    (S) (P) St Patrick’s School,"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",50,"九龍橫頭磡富美東街１２號    (2337 0133) 12 Fu Mei Street East, Wang Tau Hom , Kln",22.3383729,114.1889308
+PS_077,4302,"福德學校    (S) (B)
+Bishop Ford Memorial School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",87,"九龍東頭村培民街２０號  *    (2336 0206) 20 Pui Man Street, Tung Tau Tsuen, Kln",22.33513987,114.1900857
+PS_078,4303,"黃大仙天主教小學    (S) (B)
+Wong Tai Sin Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",76,"九龍黃大仙正德街１０２號  *    (2320 8367) 102 Ching Tak Street, Wong Tai Sin, Kln",22.34094617,114.1938915
+PS_079,4304,聖公會基德小學    (S) (B) SKH Kei Tak Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided",基督教 Protestantism/ Christianity,50,"九龍黃大仙大成街  *    (2320 3077) Tai Shing Street, Wong Tai Sin, Kln",22.33706296,114.1944638
+PS_080,4305,天主教伍華小學    (S) (P) (B) Ng Wah Catholic Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",74,"九龍新蒲崗彩虹道５號  *    (2383 8079) 5 Choi Hung Road, San Po Kong, Kln",22.33310753,114.1947836
+PS_081,4306,"天主教博智小學    (S) (B)
+Price Memorial Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",90,"九龍黃大仙竹園道５３號  *    (2328 8033) 53 Chuk Yuen Road, Wong Tai Sin, Kln",22.34392682,114.187213
+PS_082,4307,"黃大仙官立小學    (S) (P) (B)
+Wong Tai Sin Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,94,"九龍黃大仙正德街１００號  *    (2320 2437) 100 Ching Tak Street, Wong Tai Sin, Kln",22.34096427,114.1935421
+PS_083,4308,嘉諾撒小學    (S) (P) Canossa Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",50,"九龍黃大仙親仁街５號    (2322 2445) 5 Chun Yan Street, Wong Tai Sin, Kln",22.34035879,114.1972988
+PS_084,4309,"保良局陳南昌夫人小學    (S) (P) (B)
+PLK Mrs Chan Nam Chong Memorial Primary
+School","全日
+whole-day","男女
+co-ed","資助
+aided",,72,"九龍新蒲崗康強街３０號  *    (2759 9365) 30 Hong Keung Street, San Po Kong, Kln",22.33515725,114.1967447
+PS_085,4501,中華基督教會基華小學    (S) (#6) CCC Kei Wa Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",50,"九龍黃大仙彩虹邨黃菊路３號    (2320 0683)
+3 Wong Kuk Avenue, Choi Hung Estate, Wong Tai Sin, Kln",22.33604073,114.206617
+PS_086,4502,"彩雲聖若瑟小學    (S)
+Choi Wan St Joseph’s Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",53,"九龍清水灣道彩雲邨    (2755 7180)
+Choi Wan Estate, Clear Water Bay Road, Kln",22.33427862,114.2122952
+PS_087,4503,真鐸學校    (S) Chun Tok School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",37,"九龍鑽石山斧山道１７１號    (2326 5111) 171 Hammer Hill Road, Diamond Hill, Kln",22.3402489,114.2070062
+PS_088,4504,中華基督教會基慈小學    (S) (P) CCC Kei Tsz Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",71,"九龍慈雲山道１５２號    (2322 5122) 152 Tsz Wan Shan Road, Kln",22.35012995,114.1965818
+PS_089,4505,"伊斯蘭鮑伯濤紀念小學    (S) (P)
+Islamic Dharwood Pau Memorial Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","伊斯蘭教
+Islam",65,"九龍慈雲山慈樂邨第一期    (2320 1300) Tsz Lok Estate, Phase 1, Tsz Wan Shan, Kln",22.34966032,114.1968827
+PS_090,4506,"嗇色園主辦可立小學    (S) (P)
+Ho Lap Primary School (Sponsored by Sik Sik Yuen)","全日
+whole-day","男女
+co-ed","資助
+aided","儒釋道三教
+Confucianism,
+Buddhism & Taoism",59,"九龍慈雲山雙鳳街８８號    (2321 6003) 88 Sheung Fung Street, Tsz Wan Shan, Kln",22.34723995,114.19829
+PS_091,4507,"聖文德天主教小學    (S) (P)
+St Bonaventure Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",62,"九龍鑽石山鳳德邨鳳禮道４號    (2320 2727)
+4 Fung Lai Road, Fung Tak Estate, Diamond Hill, Kln",22.34483729,114.2019786
+PS_092,4508,"慈雲山聖文德天主教小學    (S) (P)
+TWS St Bonaventure Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",104,"九龍慈雲山慈正邨寧華街    (2320 6226)
+Ning Wah Street, Tsz Ching Estate, Tsz Wan Shan, Kln",22.3497678,114.2031153
+PS_093,4509,"保良局錦泰小學    (S) (P)
+PLK Grandmont Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",,51,"九龍黃大仙蒲崗村道１８０號    (2326 2886) 180 Po Kong Village Road, Wong Tai Sin, Kln",22.34491803,114.2052307
+PS_094,4510,"聖博德天主教小學（蒲崗村道）   (S) (P)
+St Patrick’s Catholic Primary School
+(Po Kong Village Road)","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",61,"九龍黃大仙蒲崗村道１７８號    (2246 0783) 178 Po Kong Village Road, Wong Tai Sin, Kln",22.34454791,114.2044443
+PS_095,4511,"慈雲山天主教小學    (S) (P)
+Tsz Wan Shan Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",76,"九龍黃大仙蒲崗村道１７２號    (2327 3332) 172 Po Kong Village Road, Wong Tai Sin, Kln",22.34584833,114.204328
+PS_096,4512,嘉諾撒小學（新蒲崗）    (S) (P) Canossa Primary School (San Po Kong),"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",72,"九龍新蒲崗彩頤里９號    (2323 8883) 9 Choi Yee Lane, San Po Kong, Kln",22.33699875,114.2020257
+PS_097,4601,"佛教慈敬學校    (S) (P)
+Buddhist Chi King Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","佛教
+Buddhism",50,"九龍九龍灣啟禮道１２號    (2759 7722) 12 Kai Lai Road, Kowloon Bay, Kln",22.32775959,114.2071491
+PS_098,4602,迦密梁省德學校    (S) (P) (#7) Carmel Leung Sing Tak School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",83,"九龍觀塘順安邨第二校舍    (2345 8063)
+Estate School No. 2, Shun On Estate, Kwun Tong, Kln",22.32822474,114.2253975
+PS_099,4603,"佐敦谷聖若瑟天主教小學    (S) (P)
+Jordan Valley St Joseph’s Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",43,"九龍觀塘彩霞道８０號    (2305 0061) 80 Choi Ha Road, Kwun Tong, Kln",22.32865223,114.2138371
+PS_100,4604,浸信宣道會呂明才小學    (S) (P) CB Lui Ming Choi Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",60,"九龍觀塘彩霞道７８號    (2754 7024) 78 Choi Ha Road, Kwun Tong, Kln",22.32942868,114.2146042
+PS_101,4605,"坪石天主教小學    (S) (P) (#8)
+Ping Shek Estate Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",85,"九龍觀塘坪石邨第一校舍    (2321 2988)
+Estate School No. 1, Ping Shek Estate, Kwun Tong, Kln",22.33413451,114.2105576
+PS_102,4606,天主教柏德學校    (S) (P) Bishop Paschang Catholic School,"全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",80,"九龍九龍灣宏照道６號    (2799 3003) 6 Wang Chiu Road, Kowloon Bay, Kln",22.32868057,114.2078579
+PS_103,4607,"聖公會九龍灣基樂小學    (S) (P)
+SKH Kowloon Bay Kei Lok Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",76,"九龍九龍灣啟仁街６號    (2796 9393) 6 Kai Yan Street, Kowloon Bay, Kln",22.32889762,114.2061593
+PS_104,4608,"九龍灣聖若翰天主教小學    (S) (P)
+Kowloon Bay St John The Baptist Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",54,"九龍觀塘啟業道２３號    (2343 2311) 23 Kai Yip Road, Kwun Tong, Kln",22.32787606,114.2117306
+PS_105,4609,"香港道教聯合會雲泉學校    (S) (P)
+Hong Kong Taoist Association Wun Tsuen School","全日
+whole-day","男女
+co-ed","資助
+aided","道教
+Taoism",62,"九龍觀塘安茵街２號    (2757 0854) 2 On Yan Street, Kwun Tong, Kln",22.32767252,114.2297265
+PS_106,4801,"觀塘官立小學（秀明道）    (S) (P)
+Kwun Tong Government Primary School (Sau Ming Road)","全日
+whole-day","男女
+co-ed","官立
+govt",,53,"九龍觀塘秀茂坪秀明道１３０號    (2709 2220) 130 Sau Ming Road, Sau Mau Ping, Kwun Tong, Kln",22.31526305,114.2339729
+PS_107,4802,"觀塘官立小學    (S)
+Kwun Tong Government Primary School","全日
+whole-day","男女
+co-ed","官立
+govt",,72,"九龍觀塘牛頭角道２４０號    (2756 0762) 240 Ngau Tau Kok Road, Kwun Tong, Kln",22.31645087,114.2181142
+PS_108,4803,"聖公會李兆強小學    (S) (P)
+SKH Lee Shiu Keung Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",62,"九龍觀塘藍田平田邨安田街第一校舍    (2346 5430)
+School No 1, On Tin Street, Ping Tin Estate, Lam Tin, Kwun Tong, Kln",22.30683636,114.2371139
+PS_109,4804,"聖公會德田李兆強小學    (S) (P)
+SKH Tak Tin Lee Shiu Keung Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",43,"九龍觀塘藍田慶田街３號    (2775 9338)
+No. 3 Hing Tin Street, Lam Tin, Kwun Tong, Kln",22.31089113,114.237038
+PS_110,4805,"閩僑小學    (S) (P)
+Man Kiu Association Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",,50,"九龍牛頭角上邨（安善道）    (2757 0490)
+On Shin Road, Upper Ngau Tau Kok Estate, Kln",22.31985553,114.2176007
+PS_111,4806,"聖若翰天主教小學    (S) (P)
+St John The Baptist Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",50,"九龍觀塘宜安街２９號    (2389 0428) 29 Yee On Street, Kwun Tong, Kln",22.31532977,114.2229667
+PS_112,4807,"樂善堂楊仲明學校    (S) (P)
+LST Yeung Chung Ming Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",,55,"九龍牛頭角樂華南邨    (2755 9195)
+Lok Wah South Estate, Ngau Tau Kok, Kln",22.32028748,114.2232401
+PS_113,4808,聖公會基樂小學    (S) (P) SKH Kei Lok Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",50,"九龍牛頭角樂華邨第一期    (2755 5611) Lok Wah Estate, Phase 1, Ngau Tau Kok, Kln",22.32028839,114.2199691
+PS_114,4809,聖公會基顯小學    (S) (P) SKH Kei Hin Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",50,"九龍牛頭角上邨（安善道）    (2750 7771)
+On Shin Road, Upper Ngau Tau Kok Estate, Kln",22.31802239,114.2173187
+PS_115,4810,中華基督教會基法小學（油塘）    (S) (P) CCC Kei Faat Primary School (Yau Tong),"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",60,"九龍油塘油塘道２５號    (2389 5458) 25 Yau Tong Road, Yau Tong, Kln",22.29973039,114.2340151
+PS_116,4811,"聖公會油塘基顯小學    (S) (P)
+SKH Yautong Kei Hin Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",64,"九龍油塘油塘道２３號    (2757 0322) 23 Yau Tong Road, Yau Tong, Kln",22.30005503,114.2353059
+PS_117,4812,"藍田循道衛理小學    (S) (P)
+Lam Tin Methodist Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",62,"九龍觀塘藍田平田邨安田街    (2346 1033)
+On Tin Street, Ping Tin Estate, Lam Tin, Kwun Tong, Kln",22.30711636,114.2369879
+PS_118,4813,"香港道教聯合會圓玄學院陳呂重德紀念學校
+(S) (P)
+HK Taoist Assn The Yuen Yuen Institute Chan Lui Chung Tak Memorial School","全日
+whole-day","男女
+co-ed","資助
+aided","道教
+Taoism",94,"九龍油塘高超道    (2709 9978) Ko Chiu Road, Yau Tong, Kln",22.30052294,114.2398091
+PS_119,4814,"聖愛德華天主教小學    (S) (P)
+St Edward’s Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",62,"九龍觀塘藍田慶田街８號    (2717 9585)
+8 Hing Tin Street, Lam Tin, Kwun Tong, Kln",22.31178493,114.2376595
+PS_120,4815,"樂華天主教小學    (S) (P)
+Lok Wah Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",50,"九龍觀塘振華道８１號    (2758 5767) 81 Chun Wah Road, Kwun Tong, Kln",22.32176893,114.221707
+PS_121,4816,"基督教聖約教會堅樂小學    (S) (P)
+The Mission Covenant Church Holm Glad Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",75,"九龍觀塘秀茂坪邨秀明道７７號    (2757 4566)
+77 Sau Ming Road, Sau Mau Ping Estate, Kwun Tong, Kln",22.32077241,114.2319466
+PS_122,4817,"秀明小學    (S) (P)
+Sau Ming Primary School","全日
+whole-day","男女
+co-ed","資助
+aided",,63,"九龍觀塘秀茂坪秀豐街５號    (2349 3478)
+5 Sau Fung Street, Sau Mau Ping, Kwun Tong, Kln",22.31948073,114.232839
+PS_123,4818,"路德會聖馬太學校（秀茂坪）    (S) (P)
+St Matthew’s Lutheran School (Sau Mau Ping)","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",47,"九龍觀塘秀茂坪秀明道１２３號    (2772 3797) 123 Sau Ming Road, Sau Mau Ping, Kwun Tong, Kln",22.31677132,114.2335173
+PS_124,4819,"秀茂坪天主教小學    (S) (P)
+Sau Mau Ping Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",101,"九龍觀塘寶達邨    (2348 4218) Po Tat Estate, Kwun Tong, Kln",22.31760993,114.2369341
+PS_125,4820,中華基督教會基法小學    (S) CCC Kei Faat Primary School,"全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",25,"九龍觀塘月華街３４號    (2341 8088) 34 Yuet Wah Street, Kwun Tong, Kln",22.31244765,114.2275079
+PS_126,4821,"聖安當小學    (S) (P)
+St Antonius Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",54,"九龍油塘油塘道１號    (2348 4283) 1 Yau Tong Road, Yau Tong, Kln",22.30161676,114.2368593
+PS_127,4822,"天主教佑華小學    (S) (P)
+Our Lady of China Catholic Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","天主教
+Catholicism",70,"九龍觀塘翠屏邨第四期    (2348 2366) Tsui Ping Estate, Phase IV, Kwun Tong, Kln",22.31306982,114.2304295
+PS_128,4823,"聖公會聖約翰曾肇添小學    (S) (P)
+SKH St John’s Tsang Shiu Tim Primary School","全日
+whole-day","男女
+co-ed","資助
+aided","基督教
+Protestantism/ Christianity",62,"九龍觀塘安翠街１１號    (2322 6125) 11 On Chui Street, Kwun Tong, Kln",22.31991275,114.2368769
